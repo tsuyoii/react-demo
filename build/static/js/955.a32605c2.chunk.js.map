@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/955.a32605c2.chunk.js","mappings":"6KAEe,SAASA,IACpB,OACI","sources":["views/login.js"],"sourcesContent":["import React from \"react\";\n\nexport default function Login(){\n    return(\n        <div>\n            Login\n        </div>\n    )\n}"],"names":["Login"],"sourceRoot":""}
